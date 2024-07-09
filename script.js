@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', function() {
     var floatingIcon = document.createElement('img');
-    floatingIcon.src = 'https://i.ibb.co/WDf3MqL/start.webp';
+    floatingIcon.src = 'icon.png'; // Ensure 'icon.png' is in the same directory as 'index.html'
     floatingIcon.alt = 'Floating Icon';
     floatingIcon.className = 'floating-icon';
     floatingIcon.id = 'floatingIcon';
